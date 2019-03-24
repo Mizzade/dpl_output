@@ -1,4 +1,4 @@
-eisert/v_set_01/keypoints
+#eisert/v_set_01/keypoints
 eisert/v_set_01/descriptors
 eisert/v_set_02/keypoints
 eisert/v_set_02/descriptors
@@ -25,10 +25,3 @@ eisert/v_set_12/descriptors
 eisert/v_set_13/keypoints
 eisert/v_set_13/descriptors
 
-
-#webcam/chamonix
-#webcam/courbevoie
-#webcam/frankfurt
-#webcam/mexico
-#webcam/panorama
-#webcam/stlouis
